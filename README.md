@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React-Native**
 
-- 💬 Ask me about **React, Node, JavaScript, Express, MongoDB, SQl and Python**
+- 💬 Ask me about **React-Native, React, Node, JavaScript, Express, MongoDB, SQl and Python**
 
 - 📫 How to reach me **rishabh2560@gmail.com**
 
